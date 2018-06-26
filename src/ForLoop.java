@@ -15,6 +15,8 @@ public class ForLoop {
 
     public static void main(String[] args) {
         System.out.println(kangaroo(1113 ,612 ,1331 ,610));
+        System.out.println("Sdsdkfhskjdfh hd");
+        System.out.println("sfsdfjhksfkshfashkfkjsddfk");
 
     }
 }
