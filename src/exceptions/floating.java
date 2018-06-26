@@ -9,5 +9,6 @@ public class floating {
 //        System.out.println(f1/f2);
 //        for(;;)
         System.out.println((int)(Math.random()*100+1));
+
     }
 }
